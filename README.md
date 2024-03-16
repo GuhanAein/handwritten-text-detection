@@ -4,3 +4,8 @@ This Python script utilizes the Hugging Face Transformers library to perform Han
 
 
 This is trained with microsoft-tcocr model which is still in development as it can predict only one line.
+
+Getting input from the mobile camera with help of ipweb cam.
+
+Future idea:
+Training a good model with good accuracy and making it as an app for recognizing handwritten text
